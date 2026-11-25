@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tarik-prompt"
-version = "1.0.0"
+version = "1.1.0"
 description = "Bilingual (English/Arabic) strategic prompt engineering skill and model-aware XML/Markdown blueprint compiler for Claude, ChatGPT, and Gemini."
 readme = "README.md"
 license = { text = "MIT" }
@@ -27,6 +27,7 @@ dependencies = []
 [project.urls]
 Homepage = "https://github.com/tarikra1/tarik-prompt"
 Repository = "https://github.com/tarikra1/tarik-prompt"
+Changelog = "https://github.com/tarikra1/tarik-prompt/blob/main/CHANGELOG.md"
 Issues = "https://github.com/tarikra1/tarik-prompt/issues"
 
 [project.scripts]
